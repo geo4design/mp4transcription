@@ -1,0 +1,4 @@
+pip install streamlit moviepy pydub openai-whisper torch
+pip install moviepy==1.0.3
+
+conda activate whisper_env
